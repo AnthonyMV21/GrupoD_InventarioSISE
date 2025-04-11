@@ -11,7 +11,7 @@ import jakarta.persistence.*;
  * @author RANDY
  */
 @Entity
-@Table(name = "Categorias")
+@Table(name = "gd_Categoria")
 public class Categoria {
     
     @Id
